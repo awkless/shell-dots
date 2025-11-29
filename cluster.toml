@@ -1,0 +1,4 @@
+[settings]
+description = "Shell configuration"
+url = "git@github.com:awkless/shell-dots.git"
+work_tree_alias = "/home/awkless"
