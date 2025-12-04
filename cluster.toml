@@ -2,3 +2,7 @@
 description = "Shell configuration"
 url = "git@github.com:awkless/shell-dots.git"
 work_tree_alias = "/home/awkless"
+
+[[dependencies]]
+name = "editor"
+url = "git@github.com:awkless/editor-dots.git"
